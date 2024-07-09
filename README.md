@@ -6,8 +6,9 @@ Fonte da Microsoft SAP Gui: <br/> https://learn.microsoft.com/pt-pt/power-automa
 
 ## Resumo:
 Tive uma participação em um projeto criando robôs que usam o SAP para extrair dados e/ou manipular o mesmo, de forma obter dados dele.<br/>
-  Nesse caso tive que enfrentar uma falta de documentação e alguns pontos complicados nessa jornada. Apesar de uma grande documentação em outras linguagens, alguns pontos ficaram complicados para serem entendidos em C#. <br/>
-  Acredito que não deve ser o problema da maioria, mas quero deixar documentado para aqueles que tiverem o mesmo problema. <br/>
+Nesse caso tive que enfrentar uma falta de documentação e alguns pontos complicados nessa jornada. <br/>
+Apesar de uma grande documentação em outras linguagens, alguns pontos ficaram complicados para serem entendidos em C#. <br/>
+Acredito que não deve ser o problema, mas quero deixar documentado para aqueles que tiverem algo semelhante no futuro. <br/>
 
 Para os exemplos estou usando a: Alefair.SAP.API <br/>
 https://www.nuget.org/packages/Alefair.SAP.API <br/>
