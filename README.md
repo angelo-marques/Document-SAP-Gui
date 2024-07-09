@@ -11,8 +11,9 @@ Apesar de uma grande documentação em outras linguagens, alguns pontos ficaram 
 Acredito que não deve ser o problema, mas quero deixar documentado para aqueles que tiverem algo semelhante no futuro. <br/>
 
 Para os exemplos estou usando a: Alefair.SAP.API <br/>
-https://www.nuget.org/packages/Alefair.SAP.API <br/>
-https://nuget.info/packages/Alefair.SAP.API/1.0.7 <br/>
+<p>https://www.nuget.org/packages/Alefair.SAP.API</p>
+<p>https://nuget.info/packages/Alefair.SAP.API/1.0.7</p>
+
 ------------------------
 ## Transformação de códigos
 No sentido do código feito na sua origem, ou fazer um processo de forçar o padrão para aceitar o modelo já usado em VB por exemplo: <br/>
